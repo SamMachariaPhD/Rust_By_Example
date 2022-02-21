@@ -9,4 +9,6 @@ fn main(){
     //#[allow(dead_code)]
     //strut Structure(i32);
     //println!("This strut `{}` won't print...", Structure(3));
+    let pi = 3.141592;
+    println!("Pi is roughly {:.3}",pi); // format to 3 decimals 
 }
